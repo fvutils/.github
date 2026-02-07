@@ -4,6 +4,8 @@
 
 FVUtils is a collection of open-source tools designed to address today's verification challenges. From constrained-random stimulus generation to coverage analysis, transaction tracing to HDL integration, FVUtils provides production-ready solutions for modern verification workflows.
 
+## 🌐 Visit [fvutils.github.io](https://fvutils.github.io) for full documentation, guides, and news!
+
 ## 🎯 Core Projects
 
 ### [PyVSC](https://github.com/fvutils/pyvsc)
@@ -45,10 +47,8 @@ Git and Python-centric package manager for managing project dependencies
 - **[QEMU Model Loader](https://github.com/fvutils/qemu-model-loader)** - Technical research on loading QEMU device models as shared libraries
 - **[VIA](https://github.com/fvutils/via)** - Verification environment introspection API
 
-## 📖 Learn More
-
-Visit our [main site](https://fvutils.github.io) for detailed documentation, guides, and the latest news.
-
 ---
+
+## 📖 [Visit fvutils.github.io](https://fvutils.github.io) for complete documentation, tutorials, and latest updates
 
 **Questions?** Open an issue in the relevant project repository or start a discussion!
